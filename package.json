@@ -1,0 +1,30 @@
+{
+  "name": "nutritiontracker",
+  "version": "1.0.0",
+  "description": "Web application designed to help track diet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osrahman/NutritionTracker.git"
+  },
+  "keywords": [
+    "Nutrition",
+    "Tracker",
+    "Web",
+    "Application"
+  ],
+  "author": "Omar Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osrahman/NutritionTracker/issues"
+  },
+  "homepage": "https://github.com/osrahman/NutritionTracker#readme",
+  "dependencies": {
+    "angular": "^1.8.3",
+    "fastify": "^4.12.0",
+    "tailspin": "^1.1.0"
+  }
+}
